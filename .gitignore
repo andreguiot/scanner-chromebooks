@@ -1,0 +1,8 @@
+# Arquivos de credenciais e tokens do Google - NUNCA ENVIAR!
+token.json
+credentials.json
+
+# Arquivos de cache e compilados do Python
+__pycache__/
+*.pyc
+*.pyo
